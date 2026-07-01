@@ -14,3 +14,12 @@ Permite cadastrar varias disciplinas com nome e carga horaria em tuplas, armazen
 cd "48_registro_disciplinas"
 python main.py
 ```
+## Conceitos trabalhados
+
+listas, cadastro dinamico, relatorio
+
+## Status
+
+Resolvido.
+
+Dependencias: easyansi.
